@@ -1,13 +1,11 @@
-
-<div align ="center">
-  # 🌌 Welcome to My Digital Nexus 🌌</div>
+# 🌌 Welcome to My Digital Nexus 🌌
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Network...;System+Online+%E2%9C%A8;Welcome+to+the+Code+Dimension;I'm+Your+Digital+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Network...;System+Online+%E2%9C%A8;Welcome+to+the+Code+Dimension;I'm+Pradeep+Argal" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BADDEEP&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Robotics%20%26%20AI%20Samurai&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 ---
@@ -21,11 +19,11 @@
 ### 🎯 Current Mission
 ```ascii
 ╔══════════════════════════════╗
-║    > Coding Reality.exe      ║
-║    > Building Dreams...      ║
+║    > Building_Future.exe     ║
 ║    > Status: ONLINE 🟢       ║
+║    > Robotics Mode: Active   ║
 ║    > Coffee Level: ████████  ║
-║    > Bug Squashing: Active   ║
+║    > Innovation: Unlimited   ║
 ╚══════════════════════════════╝
 ```
 
@@ -35,9 +33,10 @@
 ### 👾 Digital Avatar
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="200px" alt="Coding Animation"/>
 
-**Level:** ∞ Programmer  
-**Class:** Full-Stack Wizard 🧙‍♂️  
-**XP:** Loading... ████████░░ 80%
+**Level:** ∞ Robotics Engineer  
+**Class:** Full-Stack AI Wizard 🤖  
+**University:** Medi-Caps University  
+**Specialty:** Hardware ↔ Software Bridge
 
 </td>
 </tr>
@@ -48,41 +47,47 @@
 ## 🌟 Skill Tree Unlocked
 
 <details open>
-<summary><b>⚔️ Combat Languages (Click to expand skill details)</b></summary>
+<summary><b>⚔️ Robotics & AI Arsenal (Click to expand skill details)</b></summary>
 
 <div align="center">
 
-| Skill | Power Level | Experience |
-|-------|-------------|------------|
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | ⭐⭐⭐⭐ | `████████░░` 80% |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `██████████` 90% |
-| <img src="https://img.shields.io/badge/EXPRESS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | ⭐⭐⭐⭐☆ | `██████░░░░` 70% |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | ⭐⭐⭐⭐⭐ | `████████░░` 85% |
+| Skill Domain | Power Level | Experience |
+|--------------|-------------|------------|
+| <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `██████████` 95% |
+| <img src="https://img.shields.io/badge/SLAM-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `█████████░` 90% |
+| <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> | ⭐⭐⭐⭐☆ | `████████░░` 85% |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | ⭐⭐⭐⭐☆ | `███████░░░` 80% |
 
 </div>
 </details>
 
 <details>
-<summary><b>🛠️ Arsenal & Tools</b></summary>
+<summary><b>🛠️ Programming Jutsu & Web Sorcery</b></summary>
 
 ```
-🌐 Frontend Jutsu:
-├── React ⚛️
-├── Next.js 🚀  
-├── Vue.js 💚
-└── Anime.js ✨
+🐍 Core Languages:
+├── Python ⚡ (Advanced SLAM & AI)
+├── JavaScript 🌐 (Full-Stack Magic)
+├── Kotlin 📱 (Android Mastery)
+└── C++ ⚙️ (Hardware Integration)
 
-🗄️ Backend Sorcery:
-├── Node.js 🟢
-├── Express 🚄
-├── FastAPI ⚡
-└── Django 🎸
+🤖 Robotics Techniques:
+├── SLAM (Hector & RTAB-Map) 🗺️
+├── Navigation Stack 🧭
+├── Computer Vision 👁️
+└── Autonomous Systems 🚗
 
-☁️ Cloud Mastery:
-├── AWS ☁️
-├── Docker 🐳
-├── Kubernetes ⚙️
-└── MongoDB 🍃
+🌐 Web Development Mastery:
+├── React ⚛️ (Frontend Excellence)
+├── Node.js & Express 🚄
+├── AWS & Cloud Architecture ☁️
+└── Full-Stack Integration 🔧
+
+☁️ Cloud & DevOps Arsenal:
+├── AWS (Certified) ☁️
+├── Google Cloud Platform 🌩️
+├── Firebase 🔥
+└── Git Version Control 📝
 ```
 
 </details>
@@ -92,43 +97,44 @@
 ## 🎮 Epic Project Gallery
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&width=435&lines=Behold+my+digital+creations!;Each+one+a+piece+of+my+soul..." alt="Projects intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&width=435&lines=Behold+my+digital+creations!;Each+project+tells+a+story..." alt="Projects intro" />
 </div>
 
-### 🌟 Featured Quests
+### 🌟 Featured Legendary Quests
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🚀 [Project Alpha](https://github.com/yourusername/project-alpha)
+#### 🤖 [Autonomous Wheelchair - IIT Mandi](https://github.com/BADDEEP007)
 ```yaml
-Type: Web Application
-Status: 🟢 Active Development
-Tech Stack: React + Node.js + MongoDB
-Description: |
-  A revolutionary platform that bridges
-  the gap between dreams and code.
-  Features real-time collaboration
-  and AI-powered suggestions.
+Type: Advanced Robotics System
+Status: 🏆 Research Complete
+Tech Stack: ROS + SLAM + Python + Navigation
+Achievement: |
+  Revolutionary mobility solution with
+  Hector SLAM for 2D mapping and
+  RTAB-Map for 3D environment mapping.
+  Features autonomous navigation with
+  intelligent obstacle avoidance.
 ```
-**⚡ Live Demo:** [View Mission](https://your-demo-link.com)
+**⚡ Impact:** Enhanced Mobility for All
 
 </td>
 <td width="50%">
 
-#### 🌙 [Lunar Dashboard](https://github.com/yourusername/lunar-dashboard)
+#### 🔬 [Gas Detection System - IIT Guwahati](https://github.com/BADDEEP007)
 ```yaml
-Type: Data Visualization
-Status: 🌟 Production Ready
-Tech Stack: D3.js + Python + FastAPI
-Description: |
-  Beautiful space-themed analytics
-  dashboard with cosmic animations.
-  Real-time data streaming from
-  multiple galaxies (APIs).
+Type: Environmental Monitoring
+Status: 🧪 Research Active
+Tech Stack: Arduino + IR Sensors + C++ + 3D Print
+Achievement: |
+  Cutting-edge IR spectroscopy system
+  detecting Furaneol, Acetone, and RDX.
+  Custom 3D printed gas-tight chambers
+  designed with Blender for precision.
 ```
-**⚡ Live Demo:** [Explore Universe](https://your-demo-link.com)
+**⚡ Impact:** Environmental Safety Guardian
 
 </td>
 </tr>
@@ -136,34 +142,34 @@ Description: |
 <tr>
 <td width="50%">
 
-#### 🎯 [Neural Network Playground](https://github.com/yourusername/nn-playground)
+#### 🧠 [Mento.in - Mental Wellness Platform](https://mento.in)
 ```yaml
-Type: Machine Learning
-Status: 🔬 Research Phase
-Tech Stack: TensorFlow + Python + React
-Description: |
-  Interactive ML model trainer
-  with anime-style visualizations.
-  Perfect for learning neural
-  networks through gamification.
+Type: Full-Scale Health Platform
+Status: 🌟 Production Ready
+Tech Stack: React + Express + AWS + DynamoDB
+Achievement: |
+  Complete mental health ecosystem with
+  appointment scheduling, video calls,
+  progress tracking, and mail services.
+  Backend architecture & partial frontend.
 ```
-**⚡ Status:** `Training Models...`
+**⚡ Live Platform:** [Explore Mento.in](https://mento.in)
 
 </td>
 <td width="50%">
 
-#### 🎨 [Code Art Generator](https://github.com/yourusername/code-art)
+#### 📱 [Android Development Suite](https://github.com/BADDEEP007)
 ```yaml
-Type: Creative Tool
-Status: ✨ Magical & Complete
-Tech Stack: Canvas API + WebGL + Vue
-Description: |
-  Transform your code into
-  beautiful ASCII art and
-  animated visualizations.
-  Because code is poetry!
+Type: Mobile Applications
+Status: ✨ Creative & Interactive
+Tech Stack: Kotlin + Android Studio + Material
+Achievement: |
+  Interactive Lemonade app with
+  engaging UI and Fun Facts generator.
+  Google Developer certified projects
+  showcasing modern Android design.
 ```
-**⚡ Live Demo:** [Create Magic](https://your-demo-link.com)
+**⚡ Certification:** Google Developer Certified
 
 </td>
 </tr>
@@ -174,12 +180,12 @@ Description: |
 ## 📊 Battle Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BADDEEP007&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BADDEEP007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADDEEP007&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
@@ -187,20 +193,29 @@ Description: |
 ## 🌸 Activity Constellation
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=e39777&line=e39777&point=ff6b9d&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BADDEEP007&bg_color=0d1117&color=e39777&line=e39777&point=ff6b9d&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🎭 Achievement Badges
+## 🎭 Achievement Badges & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BADDEEP007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy Stats"/>
 </div>
 
+### 🏅 Legendary Achievements Unlocked
+
 <div align="center">
-  
-[![An image of @yourusername's Holopin badges](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
+
+| Certification | Year | Institution | Status |
+|---------------|------|-------------|---------|
+| 🎓 **Google Developers Certification** | 2024 | Google | ✅ Android Expert |
+| 🧠 **Google AI/ML Internship** | 2024 | Google | ✅ AI Specialist |
+| ☁️ **AWS Academy Cloud Architecture** | 2024 | Amazon | ✅ Cloud Architect |
+| 🔬 **Research Internships** | 2024-25 | IIT Guwahati & IIT Mandi | ✅ Active Researcher |
+| 📊 **11+ AI/ML Certifications** | 2023-24 | Multiple Platforms | ✅ ML Master |
+| 🏆 **NPTEL Data Structures** | 2023 | IIT | ✅ Algorithm Expert |
 
 </div>
 
@@ -212,15 +227,14 @@ Description: |
 
 ### 📡 Transmission Channels
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-argal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BADDEEP007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Mento.in](https://img.shields.io/badge/Mento.in-4CAF50?style=for-the-badge&logo=health&logoColor=white)](https://mento.in)
 
-### 💌 Send a Message to the Void
+### 💌 Send a Message to the Digital Realm
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
@@ -228,13 +242,17 @@ Description: |
 
 ---
 
-## 🌙 Lunar Wisdom
+## 🌙 Words from the Void - Osamu Dazai
 
 <div align="center">
   
-*"Code is like poetry - it should be elegant, meaningful, and occasionally make people cry."*
+*"The thought of tomorrow filled me with such anxiety that I preferred to stay frozen in an eternal now."*
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" alt="Random Dev Quote"/>
+**- Osamu Dazai**
+
+*But I choose to code the future, one algorithm at a time.*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Hard%20work%20is%20what%20makes%20dreams%20come%20true&author=Rock%20Lee" alt="Motivational Quote"/>
 
 </div>
 
@@ -244,22 +262,23 @@ Description: |
 
 <div align="center">
   
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+**🎧 Now Playing:** *"Lost My Mind" by Billie Eilish*
+
+*Perfect coding vibes for building the future...*
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/your-track-id)
 
 </div>
 
 ---
 
-## 🎯 Mission Objectives 2024
+## 🎯 Current Research Focus
 
-- [x] Master the art of clean code
-- [x] Build 5 epic projects
-- [ ] Contribute to 10 open source projects
-- [ ] Write 20 technical blog posts  
-- [ ] Speak at a tech conference
-- [ ] Launch a SaaS product
-- [ ] Mentor junior developers
-- [ ] Learn a new language (Rust/Go)
+- 🔬 **Environmental Monitoring:** Advanced IR spectroscopy for gas detection
+- 🤖 **Autonomous Systems:** Next-gen SLAM algorithms and navigation
+- 🧠 **Computer Vision:** Transformer models and real-time processing
+- 🌐 **Scalable Architecture:** Cloud-native applications with modern stacks
+- 🔋 **Robotics Innovation:** Bridging hardware-software integration gaps
 
 ---
 
@@ -271,14 +290,14 @@ Description: |
   
 ### 🌟 Thanks for visiting my digital realm! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Realm+Visitors" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=BADDEEP007&color=blueviolet&style=for-the-badge&label=Realm+Visitors" alt="Profile Views"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=May+the+code+be+with+you+%E2%9C%A8;Until+we+meet+again+in+the+digital+realm..." alt="Farewell Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Turning+Vision+Into+Reality+With+Code+%E2%9C%A8;Until+we+meet+again+in+the+digital+realm..." alt="Farewell Message" />
 </div>
 
 ---
 
-<sub>🤖 This README was crafted with love, powered by caffeine, and enhanced with anime magic ✨</sub>
+<sub>🤖 This README was crafted with love, powered by caffeine, and enhanced with robotics magic ✨</sub>
