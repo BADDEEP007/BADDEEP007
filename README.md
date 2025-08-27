@@ -1,11 +1,13 @@
-# 🌌 Welcome to My Digital Nexus 🌌
+
+<div align ="center">
+  # 🌌 Welcome to My Digital Nexus 🌌</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Network...;System+Online+%E2%9C%A8;Welcome+to+the+Code+Dimension;I'm+Your+Digital+Architect" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Code%20Samurai&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BADDEEP&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 ---
@@ -52,9 +54,9 @@
 
 | Skill | Power Level | Experience |
 |-------|-------------|------------|
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | ⭐⭐⭐⭐⭐ | `████████░░` 80% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | ⭐⭐⭐⭐ | `████████░░` 80% |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `██████████` 90% |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | ⭐⭐⭐⭐☆ | `██████░░░░` 70% |
+| <img src="https://img.shields.io/badge/EXPRESS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | ⭐⭐⭐⭐☆ | `██████░░░░` 70% |
 | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | ⭐⭐⭐⭐⭐ | `████████░░` 85% |
 
 </div>
