@@ -1,11 +1,14 @@
-# 🌌 Welcome to My Digital Nexus 🌌
+<div align="center">
+🌌 Welcome to My Digital Nexus 🌌
+</div> 
+  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Network...;System+Online+%E2%9C%A8;Welcome+to+the+Code+Dimension;I'm+Pradeep+Argal" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Network...;System+Online+%E2%9C%A8;Welcome+to+the+Code+Dimension;I'm+Pradeep+Argal" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Robotics%20%26%20AI%20Samurai&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mr.%20Baddeep&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32\" />
 </div>
 
 ---
@@ -47,14 +50,29 @@
 ## 🌟 Skill Tree Unlocked
 
 <details open>
-<summary><b>⚔️ Robotics & AI Arsenal (Click to expand skill details)</b></summary>
+<summary><b>⚔️ Web Development Mastery (Click to expand skill details)</b></summary>
 
 <div align="center">
 
 | Skill Domain | Power Level | Experience |
 |--------------|-------------|------------|
-| <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `██████████` 95% |
-| <img src="https://img.shields.io/badge/SLAM-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" /> | ⭐⭐⭐⭐⭐ | `█████████░` 90% |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | ⭐⭐⭐⭐☆ | `█████████░` 90% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | ⭐⭐⭐⭐☆ | `██████████` 95% |
+| <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> | ⭐⭐⭐⭐☆ | `████████░░` 85% |
+| <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> | ⭐⭐⭐⭐☆ | `████████░░` 80% |
+
+</div>
+</details>
+
+<details>
+<summary><b>🤖 Robotics & AI Arsenal</b></summary>
+
+<div align="center">
+
+| Skill Domain | Power Level | Experience |
+|--------------|-------------|------------|
+| <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /> | ⭐⭐⭐⭐☆ | `██████████` 95% |
+| <img src="https://img.shields.io/badge/SLAM-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" /> | ⭐⭐⭐⭐☆ | `█████████░` 90% |
 | <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> | ⭐⭐⭐⭐☆ | `████████░░` 85% |
 | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | ⭐⭐⭐⭐☆ | `███████░░░` 80% |
 
@@ -62,7 +80,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ Programming Jutsu & Web Sorcery</b></summary>
+<summary><b>🛠️ Programming Jutsu & Tools</b></summary>
 
 ```
 🐍 Core Languages:
@@ -97,7 +115,7 @@
 ## 🎮 Epic Project Gallery
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&width=435&lines=Behold+my+digital+creations!;Each+project+tells+a+story..." alt="Projects intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6B9D&center=true&width=435&lines=Behold+my+digital+creations!;Each+project+tells+a+story..." alt="Projects intro" />
 </div>
 
 ### 🌟 Featured Legendary Quests
@@ -129,7 +147,7 @@ Type: Environmental Monitoring
 Status: 🧪 Research Active
 Tech Stack: Arduino + IR Sensors + C++ + 3D Print
 Achievement: |
-  Cutting-edge IR spectroscopy system
+  IR system
   detecting Furaneol, Acetone, and RDX.
   Custom 3D printed gas-tight chambers
   designed with Blender for precision.
@@ -158,10 +176,29 @@ Achievement: |
 </td>
 <td width="50%">
 
+#### 🎯 [Smart Home Automation Hub](https://github.com/BADDEEP007)
+```yaml
+Type: IoT Control System
+Status: ✨ Smart & Connected
+Tech Stack: Arduino + Node.js + React + MQTT
+Achievement: |
+  Intelligent home automation with
+  voice control, mobile app integration,
+  energy monitoring, and security
+  features with real-time notifications.
+```
+**⚡ Features:** Voice + Mobile Control
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 #### 📱 [Android Development Suite](https://github.com/BADDEEP007)
 ```yaml
 Type: Mobile Applications
-Status: ✨ Creative & Interactive
+Status: 🎮 Interactive & Creative
 Tech Stack: Kotlin + Android Studio + Material
 Achievement: |
   Interactive Lemonade app with
@@ -170,6 +207,19 @@ Achievement: |
   showcasing modern Android design.
 ```
 **⚡ Certification:** Google Developer Certified
+
+</td>
+<td width="50%">
+
+#### 🎨 [Personal Portfolio](https://personal-portfolio-1-ldzd.onrender.com)
+```yaml
+Type: Web Application
+Status: 🎭 Smooth and clean
+Tech Stack: googlt smtp + Firebase Database+ Express + React
+Achievement: |
+
+```
+**⚡ Magic:** Portfolio
 
 </td>
 </tr>
@@ -229,7 +279,7 @@ Achievement: |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-argal/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BADDEEP007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-portfolio-1-ldzd.onrender.com/)
 [![Mento.in](https://img.shields.io/badge/Mento.in-4CAF50?style=for-the-badge&logo=health&logoColor=white)](https://mento.in)
 
 ### 💌 Send a Message to the Digital Realm
@@ -272,16 +322,6 @@ Achievement: |
 
 ---
 
-## 🎯 Current Research Focus
-
-- 🔬 **Environmental Monitoring:** Advanced IR spectroscopy for gas detection
-- 🤖 **Autonomous Systems:** Next-gen SLAM algorithms and navigation
-- 🧠 **Computer Vision:** Transformer models and real-time processing
-- 🌐 **Scalable Architecture:** Cloud-native applications with modern stacks
-- 🔋 **Robotics Innovation:** Bridging hardware-software integration gaps
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
@@ -295,7 +335,7 @@ Achievement: |
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Turning+Vision+Into+Reality+With+Code+%E2%9C%A8;Until+we+meet+again+in+the+digital+realm..." alt="Farewell Message" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Turning+Vision+Into+Reality+With+Code+%E2%9C%A8;Until+we+meet+again+in+the+digital+realm..." alt="Farewell Message" />
 </div>
 
 ---
