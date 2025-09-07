@@ -121,43 +121,9 @@
 ### 🌟 Featured Legendary Quests
 
 <table>
-<tr>
-<td width="50%">
 
-#### 🤖 [Autonomous Wheelchair - IIT Mandi](https://github.com/BADDEEP007)
-```yaml
-Type: Advanced Robotics System
-Status: 🏆 Research Complete
-Tech Stack: ROS + SLAM + Python + Navigation
-Achievement: |
-  Revolutionary mobility solution with
-  Hector SLAM for 2D mapping and
-  RTAB-Map for 3D environment mapping.
-  Features autonomous navigation with
-  intelligent obstacle avoidance.
-```
-**⚡ Impact:** Enhanced Mobility for All
 
-</td>
-<td width="50%">
 
-#### 🔬 [Gas Detection System - IIT Guwahati](https://github.com/BADDEEP007)
-```yaml
-Type: Environmental Monitoring
-Status: 🧪 Research Active
-Tech Stack: Arduino + IR Sensors + C++ + 3D Print
-Achievement: |
-  IR system
-  detecting Furaneol, Acetone, and RDX.
-  Custom 3D printed gas-tight chambers
-  designed with Blender for precision.
-```
-**⚡ Impact:** Environmental Safety Guardian
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 #### 🧠 [Mento.in - Mental Wellness Platform](https://mento.in)
@@ -174,42 +140,12 @@ Achievement: |
 **⚡ Live Platform:** [Explore Mento.in](https://mento.in)
 
 </td>
-<td width="50%">
 
-#### 🎯 [Smart Home Automation Hub](https://github.com/BADDEEP007)
-```yaml
-Type: IoT Control System
-Status: ✨ Smart & Connected
-Tech Stack: Arduino + Node.js + React + MQTT
-Achievement: |
-  Intelligent home automation with
-  voice control, mobile app integration,
-  energy monitoring, and security
-  features with real-time notifications.
-```
-**⚡ Features:** Voice + Mobile Control
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-#### 📱 [Android Development Suite](https://github.com/BADDEEP007)
-```yaml
-Type: Mobile Applications
-Status: 🎮 Interactive & Creative
-Tech Stack: Kotlin + Android Studio + Material
-Achievement: |
-  Interactive Lemonade app with
-  engaging UI and Fun Facts generator.
-  Google Developer certified projects
-  showcasing modern Android design.
-```
-**⚡ Certification:** Google Developer Certified
 
-</td>
-<td width="50%">
 
 #### 🎨 [Personal Portfolio](https://personal-portfolio-1-ldzd.onrender.com)
 ```yaml
