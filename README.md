@@ -123,7 +123,7 @@
 <table>
 
 
-
+<tr>
 <td width="50%">
 
 #### 🧠 [Mento.in - Mental Wellness Platform](https://mento.in)
@@ -141,9 +141,10 @@ Achievement: |
 
 </td>
 
-</tr>
 
-<tr>
+
+<td width="50%">
+
 
 
 
